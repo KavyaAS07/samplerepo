@@ -1,2 +1,2 @@
 print("self")
-print("hi)
+print("hi")
